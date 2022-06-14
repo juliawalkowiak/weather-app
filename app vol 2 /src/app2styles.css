@@ -85,6 +85,7 @@ li {
 }
 .daydetail {
   font-size: 45px;
+  opacity: 75%;
   border-radius: 20px;
   border: 0.5px solid #d8d7d7;
   background: rgba(250, 210, 207, 0.5);
